@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32059
     wikipedia: http://en.wikipedia.org/wiki/Max_Pemberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26514#The-Iron-Pirate--A-Plain-Tale-of-Strange-Happenings-on-the-Sea
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2008-09-03'
 gutenberg_type: Text
